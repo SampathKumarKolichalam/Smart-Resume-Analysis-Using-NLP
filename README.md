@@ -69,7 +69,7 @@ docker-compose up --build
 
 ---
 
-## 🔥 **API Endpoints**
+## **API Endpoints**
 🔹 **Resume Parsing API**
 ```sh
 POST /api/parse-resume
