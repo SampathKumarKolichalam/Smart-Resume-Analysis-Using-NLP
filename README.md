@@ -84,7 +84,7 @@ POST /api/job-match
 Fork the repo, make your changes, and submit a pull request!  
 
 ```sh
-git clone https://github.com/yourusername/Smart-Resume-Analyzer.git
+git clone https://github.com/SampathKumarKolichalam/Smart-Resume-Analysis-Using-NLP.git
 git checkout -b feature-branch
 git commit -m "Added new feature"
 git push origin feature-branch
