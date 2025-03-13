@@ -36,7 +36,7 @@ The **Smart Resume Analyzer** is an AI-powered application that extracts key inf
 ## **Installation & Setup**
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/SampathKumarKolichalam/Smart-Resume-Analyzer.git
+git clone https://github.com/SampathKumarKolichalam/Smart-Resume-Analysis-Using-NLP.git
 cd Smart-Resume-Analyzer
 ```
 
