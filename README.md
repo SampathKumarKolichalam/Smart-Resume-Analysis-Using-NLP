@@ -30,14 +30,13 @@ The **Smart Resume Analyzer** is an AI-powered application that extracts key inf
 ✅ **Fast API Integration** – RESTful API for easy resume processing  
 ✅ **Streamlit UI** – User-friendly interface for HR & recruiters  
 ✅ **Database Storage** – Stores structured resume data in MongoDB  
-✅ **Cloud Integration** – AWS Lambda for serverless execution  
 
 ---
 
 ## **Installation & Setup**
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/Smart-Resume-Analyzer.git
+git clone https://github.com/SampathKumarKolichalam/Smart-Resume-Analyzer.git
 cd Smart-Resume-Analyzer
 ```
 
