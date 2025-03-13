@@ -16,7 +16,6 @@ The **Smart Resume Analyzer** is an AI-powered application that extracts key inf
 | **Backend** | FastAPI, Flask |
 | **Frontend** | Streamlit |
 | **Database** | MongoDB |
-| **Cloud & Serverless** | AWS Lambda |
 | **Deployment** | Docker |
 
 ---
