@@ -1,5 +1,7 @@
 ### **Smart Resume Analyzer using NLP**
 🚀 **AI-driven Resume Screening & Job Matching using NLP & Machine Learning**
+![image](https://github.com/user-attachments/assets/45ef2420-d9db-4435-88d7-e1203262fa1f)
+
 
 ---
 
@@ -30,13 +32,6 @@ The **Smart Resume Analyzer** is an AI-powered application that extracts key inf
 
 ---
 
-## 📸 **Screenshots**
-| Resume Upload | Parsed Results | Job Match Score |
-|--------------|---------------|-----------------|
-| ![Upload](https://via.placeholder.com/300) | ![Parsed Data](https://via.placeholder.com/300) | ![Match Score](https://via.placeholder.com/300) |
-
----
-
 ## **Installation & Setup**
 ### **1️⃣ Clone the Repository**
 ```sh
@@ -61,12 +56,6 @@ streamlit run app.py
 ```sh
 docker-compose up --build
 ```
-
----
-
-## 🚀 **Live Demo** 
-👉 **[Smart Resume Analyzer - Live](https://your-deployment-link.com)**  
-
 ---
 
 ## **API Endpoints**
@@ -78,6 +67,12 @@ POST /api/parse-resume
 ```sh
 POST /api/job-match
 ```
+---
+
+![image](https://github.com/user-attachments/assets/204d1d5e-93ef-435b-9f7f-7ef13ce7efad)
+![image](https://github.com/user-attachments/assets/a142e660-0ae3-489f-b2ed-2090c0567749)
+![image](https://github.com/user-attachments/assets/abc260a8-bf18-4c33-b913-b2ee84fe099a)
+
 
 ---
 
