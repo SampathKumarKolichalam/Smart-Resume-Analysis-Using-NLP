@@ -70,9 +70,11 @@ POST /api/parse-resume
 POST /api/job-match
 ```
 ---
-
+**Project Screenshots**
 ![image](https://github.com/user-attachments/assets/204d1d5e-93ef-435b-9f7f-7ef13ce7efad)
+
 ![image](https://github.com/user-attachments/assets/a142e660-0ae3-489f-b2ed-2090c0567749)
+
 ![image](https://github.com/user-attachments/assets/abc260a8-bf18-4c33-b913-b2ee84fe099a)
 
 
