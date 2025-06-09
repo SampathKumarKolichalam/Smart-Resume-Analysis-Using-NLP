@@ -1,5 +1,5 @@
 ### **Smart Resume Analyzer**
-**AI-driven Resume Screening & Job Matching using NLP & Machine Learning.**
+**AI-Driven Resume Screening & Job Matching using NLP & Machine Learning.**
 
 ![image](https://github.com/user-attachments/assets/45ef2420-d9db-4435-88d7-e1203262fa1f)
 
