@@ -1,4 +1,4 @@
-### **Smart Resume Analyzer using NLP**
+### **Smart Resume Analyzer**
 
 **AI-driven Resume Screening & Job Matching using NLP & Machine Learning**
 
@@ -34,38 +34,38 @@ The **Smart Resume Analyzer** is an AI-powered application that extracts key inf
 
 ## Installation & Setup
 
-### 1️⃣ Clone the Repository
+### **1.Clone the Repository:**
 ```sh
 git clone https://github.com/SampathKumarKolichalam/Smart-Resume-Analysis-Using-NLP.git
 cd Smart-Resume-Analyzer
 
 ```
 
-### **2️⃣ Setup Backend**
+### **2.Setup Backend:**
 ```sh
 cd backend
 pip install -r requirements.txt
 uvicorn main:app --reload  # Run FastAPI Server
 ```
 
-### **3️⃣ Setup Streamlit Frontend**
+### **3.Setup Streamlit Frontend:**
 ```sh
 cd frontend
 streamlit run app.py
 ```
 
-### **4️⃣ Running with Docker (Optional)**
+### **4.Running with Docker (Optional):**
 ```sh
 docker-compose up --build
 ```
 ---
 
 ## **API Endpoints**
-🔹 **Resume Parsing API**
+🔹 **Resume Parsing API:**
 ```sh
 POST /api/parse-resume
 ```
-🔹 **Job Match Score API**
+🔹 **Job Match Score API:**
 ```sh
 POST /api/job-match
 ```
