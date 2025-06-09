@@ -23,11 +23,11 @@ The **Smart Resume Analyzer** is an AI-powered application that extracts key inf
 ---
 
 ## Key Features
-- **Resume Parsing & Extraction** – Extracts Name, Contact Info, Skills, Experience  
-- **Automated Job Match Scoring** – ML models analyze resume relevance  
-- **Fast API Integration** – RESTful API for easy resume processing  
-- **Streamlit UI** – User-friendly interface for HR & recruiters  
-- **Database Storage** – Stores structured resume data in MongoDB  
+- **Resume Parsing & Extraction** – Extracts Name, Contact Info, Skills, Experience. 
+- **Automated Job Match Scoring** – ML models analyze resume relevance.  
+- **Fast API Integration** – RESTful API for easy resume processing.  
+- **Streamlit UI** – User-friendly interface for HR & recruiters.  
+- **Database Storage** – Stores structured resume data in MongoDB. 
 
 ---
 
